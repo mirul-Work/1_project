@@ -17,6 +17,10 @@
         "APP_DEBUG": "true",
         "APP_URL": "https://club-management-system.vercel.app",
         "APP_KEY": "base64:...",
-        "DB_CONNECTION": "sqlite"
+        "DB_CONNECTION": "sqlite",
+        "LOG_CHANNEL": "stderr",
+        "SESSION_DRIVER": "cookie",
+        "CACHE_DRIVER": "array",
+        "VIEW_COMPILED_PATH": "/tmp/storage/framework/views"
     }
 }
